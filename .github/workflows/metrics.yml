@@ -25,7 +25,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: celestialcrafter
+          user: CelestialCrafter
           template: classic
           base: ""
           config_timezone: America/Chicago
@@ -39,16 +39,15 @@ jobs:
           plugin_languages_analysis_timeout_repositories: 7.5
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
-          plugin_languages_details: percentage
+          plugin_languages_details: bytes-size
+          plugin_languages_indepth: yes
+          plugin_languages_indepth_custom: auto-trading-temp-name/main-server, auto-trading-temp-name/algorithm-server, auto-trading-temp-name/transactions, auto-trading-temp-name/price-collector, auto-trading-temp-name/shared-rust
           plugin_languages_limit: 6
           plugin_languages_other: yes
           plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 10
+          plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_skipped: vrchat, platformergame
           plugin_languages_threshold: 0%
-          plugin_topics: yes
-          plugin_topics_limit: 15
-          plugin_topics_mode: icons
-          plugin_topics_sort: stars
+          repositories_affiliations: owner, collaborator, organization_member
