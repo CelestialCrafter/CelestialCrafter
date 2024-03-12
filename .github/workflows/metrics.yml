@@ -39,11 +39,10 @@ jobs:
           plugin_languages_analysis_timeout_repositories: 7.5
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
-          plugin_languages_details: bytes-size
+          plugin_languages_details: bytes-size, percentage
           plugin_languages_indepth: yes
           plugin_languages_indepth_custom: auto-trading-temp-name/main-server, auto-trading-temp-name/algorithm-server, auto-trading-temp-name/transactions, auto-trading-temp-name/price-collector, auto-trading-temp-name/shared-rust
           plugin_languages_limit: 6
-          # plugin_languages_other: yes
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
