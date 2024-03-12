@@ -7,9 +7,9 @@
   hiya!~ im celestial 💕<br><br>
   <dl>
     <dd>
-      15<br>
-      full stack<br>
-      currently learning rust!
+      - 15<br>
+      - full stack<br>
+      - learning rust!
     </dd>
   </dl>
 </div>
