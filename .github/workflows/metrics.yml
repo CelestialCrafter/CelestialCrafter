@@ -43,7 +43,7 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_indepth_custom: auto-trading-temp-name/main-server, auto-trading-temp-name/algorithm-server, auto-trading-temp-name/transactions, auto-trading-temp-name/price-collector, auto-trading-temp-name/shared-rust
           plugin_languages_limit: 6
-          plugin_languages_other: yes
+          # plugin_languages_other: yes
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
