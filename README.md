@@ -1,7 +1,4 @@
 ## about me
-
-<img src="https://github.com/CelestialCrafter/CelestialCrafter/blob/master/github-metrics.svg" align="right" width="384">
-
 <div>
   <img src="https://avatars.githubusercontent.com/u/44733683" align="left" width="128">
   hiya!~ im celestial 💕<br><br>
@@ -14,6 +11,8 @@
   </dl>
 </div>
 <br />
+
+<img src="https://github.com/CelestialCrafter/CelestialCrafter/blob/master/github-metrics.svg" align="right" width="384">
 
 ### operating systems
 ![Pop!_OS](https://img.shields.io/badge/Pop!_OS-48B9C7.svg?style=for-the-badge&logo=popos&logoColor=white)
