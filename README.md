@@ -6,7 +6,7 @@
     <dd>
       - 15<br>
       - full stack<br>
-      - learning rust!
+      - learning rust & go!
     </dd>
   </dl>
 </div>
