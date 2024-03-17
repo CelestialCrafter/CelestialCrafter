@@ -33,6 +33,7 @@
 ![C#](https://img.shields.io/badge/c%23-512BD4.svg?&style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-000000.svg?&style=for-the-badge&logo=openjdk&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-000000.svg?&style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/go-00ADD8.svg?&style=for-the-badge&logo=go&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-4EAA25.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### frameworks
