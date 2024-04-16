@@ -16,7 +16,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 5.88mb of code in 1714 edited files across 787 commits</small>
+                <small>estimation from 5.88mb of code in 1716 edited files across 789 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -220,7 +220,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 2.11m out of 135m users</span>
+                                    <span class="gh">ranked 2.11m out of 132m users</span>
                                 </div>
                                 <div class="text">Published 25 public repositories</div>
                             </div>
