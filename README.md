@@ -15,7 +15,6 @@
 <img src="https://github.com/CelestialCrafter/CelestialCrafter/blob/master/github-metrics.svg" align="right" width="384">
 
 ### operating systems
-![Pop!_OS](https://img.shields.io/badge/Pop!_OS-48B9C7.svg?style=for-the-badge&logo=popos&logoColor=white)
 ![NixOS](https://img.shields.io/badge/nixos-5277C3.svg?style=for-the-badge&logo=nixos&logoColor=white)
 ![Windows 10](https://img.shields.io/badge/windows%2010-0078D6.svg?style=for-the-badge&logo=windows10&logoColor=white)
 ![Android](https://img.shields.io/badge/android-4A853.svg?style=for-the-badge&logo=android&logoColor=white)
