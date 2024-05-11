@@ -16,18 +16,18 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 6.48mb of code in 2061 edited files across 904 commits</small>
+                <small>estimation from 6.48mb of code in 2054 edited files across 902 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="201.06918678133877" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="201.06918678133877" y="0" width="79.10652503670782" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="280.17571181804664" y="0" width="69.55749239280354" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="349.73320421085015" y="0" width="48.34703994802719" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="398.08024415887735" y="0" width="33.77724752557405" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="431.85749168445136" y="0" width="28.142508315548636" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="201.07691887335287" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="201.07691887335287" y="0" width="79.09187782276548" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="280.16879669611836" y="0" width="69.56016721802199" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="349.72896391414037" y="0" width="48.34889912778254" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="398.0778630419229" y="0" width="33.77854642566924" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="431.85640946759213" y="0" width="28.143590532407853" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -78,7 +78,7 @@
                             </div>
                             <small>
                                 <div>169 kB</div>
-                                <div>17.2%</div>
+                                <div>17.19%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -195,7 +195,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="41.333333333333336 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="36.166666666666664 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -220,9 +220,9 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.81m out of 136m users</span>
+                                    <span class="gh">ranked 1.91m out of 136m users</span>
                                 </div>
-                                <div class="text">Published 28 public repositories</div>
+                                <div class="text">Published 27 public repositories</div>
                             </div>
                         </div>
                         <div class="achievement secret largeable-width-half">
