@@ -6,11 +6,12 @@
     <dd>
       - 15<br>
       - full stack<br>
-      - learning rust & go!
+      - learning rust & go!<br>
+      - programming for 8 years
     </dd>
   </dl>
 </div>
-<br />
+<br>
 
 <img src="https://github.com/CelestialCrafter/CelestialCrafter/blob/master/github-metrics.svg" align="right" width="384">
 
