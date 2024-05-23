@@ -1,6 +1,6 @@
 ## about me
 <div>
-  <img src="https://avatars.githubusercontent.com/u/44733683" align="left" width="128">
+  <img src="https://avatars.githubusercontent.com/u/44733683" align="left" width="148">
   hiya!~ im celestial 💕<br><br>
   <dl>
     <dd>
