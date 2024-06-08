@@ -44,6 +44,8 @@
 ![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ### tools
+![Prometheus](https://img.shields.io/badge/prometheus-E6522C.svg?&style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-F46800.svg?&style=for-the-badge&logo=grafana&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-E87D0D.svg?&style=for-the-badge&logo=blender&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/aws-232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
