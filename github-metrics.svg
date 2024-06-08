@@ -16,18 +16,18 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 6.54mb of code in 2173 edited files across 941 commits</small>
+                <small>estimation from 6.57mb of code in 2195 edited files across 949 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="196.9198003631203" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="196.9198003631203" y="0" width="77.45671098637109" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="274.3765113494914" y="0" width="68.14850272340223" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="342.5250140728936" y="0" width="47.34932093333016" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="389.8743350062238" y="0" width="37.045465356896514" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="426.9198003631203" y="0" width="33.0801996368797" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="196.4917953677499" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="196.4917953677499" y="0" width="77.28621182724883" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="273.77800719499874" y="0" width="67.99849296618666" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="341.77650016118537" y="0" width="47.24509472360169" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="389.0215948847871" y="0" width="37.971022231715345" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="426.9926171165024" y="0" width="33.007382883497584" height="8" fill="#000080"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -40,7 +40,7 @@
                             </div>
                             <small>
                                 <div>431 kB</div>
-                                <div>42.81%</div>
+                                <div>42.72%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -52,7 +52,7 @@
                             </div>
                             <small>
                                 <div>149 kB</div>
-                                <div>14.81%</div>
+                                <div>14.78%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -63,8 +63,8 @@
                                 Go
                             </div>
                             <small>
-                                <div>81.2 kB</div>
-                                <div>8.05%</div>
+                                <div>83.4 kB</div>
+                                <div>8.25%</div>
                             </small>
                         </div>
                     </section>
@@ -78,7 +78,7 @@
                             </div>
                             <small>
                                 <div>169 kB</div>
-                                <div>16.84%</div>
+                                <div>16.8%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -90,7 +90,7 @@
                             </div>
                             <small>
                                 <div>103 kB</div>
-                                <div>10.29%</div>
+                                <div>10.27%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -102,7 +102,7 @@
                             </div>
                             <small>
                                 <div>72.5 kB</div>
-                                <div>7.19%</div>
+                                <div>7.18%</div>
                             </small>
                         </div>
                     </section>
@@ -195,7 +195,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="51.666666666666664 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="56.83333333333333 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -220,9 +220,9 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.65m out of 138m users</span>
+                                    <span class="gh">ranked 1.57m out of 131m users</span>
                                 </div>
-                                <div class="text">Published 30 public repositories</div>
+                                <div class="text">Published 31 public repositories</div>
                             </div>
                         </div>
                         <div class="achievement secret largeable-width-half">
