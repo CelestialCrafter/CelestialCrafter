@@ -37,6 +37,7 @@
 ![Bash](https://img.shields.io/badge/bash-4EAA25.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### frameworks
+![TailwindCSS](https://img.shields.io/badge/tailwind%20css-06B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![React](https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white)
 ![Svelte](https://img.shields.io/badge/svelte-FF3E00.svg?&style=for-the-badge&logo=svelte&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-000000.svg?&style=for-the-badge&logo=flask&logoColor=white)
