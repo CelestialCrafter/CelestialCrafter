@@ -16,18 +16,18 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 6.58mb of code in 2204 edited files across 958 commits</small>
+                <small>estimation from 6.59mb of code in 2210 edited files across 960 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="195.83762058511624" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="195.83762058511624" y="0" width="77.02890494719288" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="272.86652553230914" y="0" width="69.30357290693411" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="342.17009843924325" y="0" width="47.0878029165139" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="389.25790135575716" y="0" width="37.84460634158457" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="427.1025076973417" y="0" width="32.89749230265829" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="195.80693637631245" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="195.80693637631245" y="0" width="77.01683591267202" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="272.8237722889845" y="0" width="69.36478796210072" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="342.1885602510852" y="0" width="47.080425110490296" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="389.2689853615755" y="0" width="37.83867677708306" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="427.10766213865855" y="0" width="32.89233786134145" height="8" fill="#000080"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -51,8 +51,8 @@
                                 CSS
                             </div>
                             <small>
-                                <div>152 kB</div>
-                                <div>15.07%</div>
+                                <div>153 kB</div>
+                                <div>15.08%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -78,7 +78,7 @@
                             </div>
                             <small>
                                 <div>169 kB</div>
-                                <div>16.75%</div>
+                                <div>16.74%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -90,7 +90,7 @@
                             </div>
                             <small>
                                 <div>103 kB</div>
-                                <div>10.24%</div>
+                                <div>10.23%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -220,7 +220,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.57m out of 138m users</span>
+                                    <span class="gh">ranked 1.57m out of 137m users</span>
                                 </div>
                                 <div class="text">Published 31 public repositories</div>
                             </div>
