@@ -4,10 +4,10 @@
   hiya!~ im celestial 💕<br><br>
   <dl>
     <dd>
-      - 15<br>
+      - 16<br>
       - full stack<br>
       - learning rust & go!<br>
-      - programming for 8 years
+      - programming for 9 years
     </dd>
   </dl>
 </div>
