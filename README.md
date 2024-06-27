@@ -13,7 +13,7 @@
 </div>
 <br>
 
-<img src="https://github.com/CelestialCrafter/CelestialCrafter/blob/master/github-metrics.svg" align="right" width="384">
+<img src="https://github.com/CelestialCrafter/CelestialCrafter/raw/master/github-metrics.svg" align="right" width="384">
 
 ### operating systems
 ![NixOS](https://img.shields.io/badge/nixos-5277C3.svg?style=for-the-badge&logo=nixos&logoColor=white)
