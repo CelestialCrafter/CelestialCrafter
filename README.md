@@ -25,8 +25,6 @@
 ![Chromium](https://img.shields.io/badge/chromium-999999.svg?style=for-the-badge&logo=googlechrome&logoColor=white)
 
 ### languages
-![HTML](https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-2C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
@@ -36,6 +34,9 @@
 ![Go](https://img.shields.io/badge/go-00ADD8.svg?&style=for-the-badge&logo=go&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-4EAA25.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Nix](https://img.shields.io/badge/nix-5277C3.svg?style=for-the-badge&logo=nixos&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![HTML](https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### frameworks
 ![TailwindCSS](https://img.shields.io/badge/tailwind%20css-06B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white)
