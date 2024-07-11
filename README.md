@@ -35,6 +35,7 @@
 ![Rust](https://img.shields.io/badge/rust-000000.svg?&style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/go-00ADD8.svg?&style=for-the-badge&logo=go&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-4EAA25.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Nix](https://img.shields.io/badge/nix-5277C3.svg?style=for-the-badge&logo=nixos&logoColor=white)
 
 ### frameworks
 ![TailwindCSS](https://img.shields.io/badge/tailwind%20css-06B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white)
