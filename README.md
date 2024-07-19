@@ -54,3 +54,24 @@
 ![AWS](https://img.shields.io/badge/aws-232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/obsidian-7C3AED.svg?&style=for-the-badge&logo=obsidian&logoColor=white)
+
+### papers read
+![Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+
+![BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
+
+![Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/abs/1502.03167)
+
+![Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401)
+
+![Flamingo: a Visual Language Model for Few-Shot Learning](https://arxiv.org/abs/2204.14198)
+
+![Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020)
+
+![You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)
+
+![BLOOM: A 176B-Parameter Open-Access Multilingual Language Model](https://arxiv.org/abs/2211.05100)
+
+![DELTAR: Depth Estimation from a Light-weight ToF Sensor and RGB Image](https://arxiv.org/abs/2209.13362)
+
+![An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
