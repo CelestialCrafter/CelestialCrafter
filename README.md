@@ -6,7 +6,7 @@
     <dd>
       - 16<br>
       - full stack<br>
-      - learning rust & go!<br>
+      - learning zig!<br>
       - programming for 9 years
     </dd>
   </dl>
