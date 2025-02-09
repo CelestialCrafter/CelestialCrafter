@@ -16,18 +16,18 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 11mb of code in 6718 edited files across 2370 commits</small>
+                <small>estimation from 11mb of code in 6724 edited files across 2371 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="132.66691954099605" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="132.66691954099605" y="0" width="106.6263231596383" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="239.29324270063432" y="0" width="71.63062149421219" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="310.92386419484654" y="0" width="67.38121122571573" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="378.3050754205623" y="0" width="55.52243148719202" height="8" fill="#ff3e00"/>
-                    <rect mask="url(#languages-bar)" x="433.8275069077543" y="0" width="26.1724930922457" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="132.66425259415809" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="132.66425259415809" y="0" width="106.63342688084727" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="239.2976794750054" y="0" width="71.62918153419686" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="310.92686100920224" y="0" width="67.37985668979344" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="378.30671769899567" y="0" width="55.521315343291164" height="8" fill="#ff3e00"/>
+                    <rect mask="url(#languages-bar)" x="433.82803304228685" y="0" width="26.171966957713174" height="8" fill="#DA5B0B"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -203,7 +203,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="124 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="129.16666666666669 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -228,9 +228,9 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 978k out of 156m users</span>
+                                    <span class="gh">ranked 941k out of 156m users</span>
                                 </div>
-                                <div class="text">Published 44 public repositories</div>
+                                <div class="text">Published 45 public repositories</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
