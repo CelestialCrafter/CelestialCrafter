@@ -1,4 +1,3 @@
-<img src="https://avatars.githubusercontent.com/u/44733683" align="left" width="128">
-hiya!~ im celestial 💕
-
-[my site (celestial.moe)](https://celestial.moe)
+> [!WARNING]
+> i have moved to [tangled](https://tangled.org/celestial.moe)!
+> all repositories in this account are outdated and abandoned
